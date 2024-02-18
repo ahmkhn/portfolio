@@ -16,5 +16,5 @@ export default [
         imgUrl: '',
         stack: ['Example1','Example2','Example3'],
         link:'',
-    }
+    },
 ]
