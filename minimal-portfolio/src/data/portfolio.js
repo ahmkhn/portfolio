@@ -1,20 +1,20 @@
 export default [
     {
-        title:'Example Project 1',
-        imgUrl: '',
-        stack: ['Example1','Example2','Example3'],
-        link:'',
+        title:'Map Dashboard',
+        imgUrl: '/assets/mapdashpic.jpeg',
+        stack: ['React.js','React Mapbox','HTML/CSS'],
+        link:'github.com/ahmkhn',
     },
     {
-        title:'Example Project 1',
-        imgUrl: '',
-        stack: ['Example1','Example2','Example3'],
-        link:'',
+        title:'Massachusetts Federal Payroll Searcher',
+        imgUrl: '/assets/payroll-search-pic.png',
+        stack: ['Java','JavaFX','Gradle'],
+        link:'github.com/ahmkhn',
     },
     {
-        title:'Example Project 1',
-        imgUrl: '',
-        stack: ['Example1','Example2','Example3'],
-        link:'',
+        title:'ToDo List',
+        imgUrl: '/assets/todolist.png',
+        stack: ['React.js','HTML/CSS','Git'],
+        link:'github.com/ahmkhn',
     },
 ]
