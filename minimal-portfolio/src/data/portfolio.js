@@ -17,4 +17,10 @@ export default [
         stack: ['React.js','HTML/CSS','Git'],
         link:'https://github.com/ahmkhn',
     },
+    {
+        title:'Pokemon Memory Game',
+        imgUrl:'/assets/pokemon.png',
+        stack:['React.js, HTML/CSS', 'Git'],
+        link:'https://ahmkhn.github.io/memory-card-game/'
+    }
 ]
