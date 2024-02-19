@@ -9,12 +9,12 @@ export default [
         title:'Massachusetts Federal Payroll Searcher',
         imgUrl: '/assets/payroll-search-pic.png',
         stack: ['Java','JavaFX','Gradle'],
-        link:'https:github.com/ahmkhn',
+        link:'https://github.com/ahmkhn',
     },
     {
         title:'ToDo List',
         imgUrl: '/assets/todolist.png',
         stack: ['React.js','HTML/CSS','Git'],
-        link:'https:github.com/ahmkhn',
+        link:'https://github.com/ahmkhn',
     },
 ]
