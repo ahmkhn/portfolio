@@ -1,2 +1,2 @@
 # portfolio website
-deployed @ [portfolio]([ahmkhn.vercel.app](https://ahmkhn.vercel.app/)https://ahmkhn.vercel.app/)
+deployed @ [portfolio]((https://ahmkhn.vercel.app/))
